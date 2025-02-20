@@ -1,5 +1,5 @@
 
-TaskMaster é um protótipo de um aplicativo de gerenciamento de tarefas desenvolvido para uma apresentação de faculdade (posteriormente liberar para comunidade de forma Open Source).  
+TaskMaster é um protótipo de um aplicativo de gerenciamento de tarefas desenvolvido para uma apresentação de faculdade.  
 O objetivo do projeto é demonstrar a criação de um sistema simples de gerenciamento de tarefas, onde os usuários podem adicionar, editar, excluir e categorizar tarefas.
 
 ## Funcionalidades
